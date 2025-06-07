@@ -1,6 +1,6 @@
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/ricotandrio/toonar-discussion">
     <img src="assets/toonar.png" alt="Toonar Logo" width="80" height="80">
   </a>
 
