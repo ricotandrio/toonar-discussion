@@ -6,7 +6,10 @@ All notable changes to **Toonar** will be documented in this file.
 
 ### Added or Changed
 
-- Initial release of Toonar 🎉
-- Supports multiple instrument tunings (Guitar, Ukulele, Bass, Violin)
-- Add your own custom tunings
-- Real-time pitch detection using microphone input
+- Real-Time Pitch Detection: Visual feedback that helps you tune precisely – no guesswork needed.
+
+- Auto & Manual Modes: Switch between automatic note detection or manual selection with ease.
+
+- Multiple Instruments: Supports Guitar, Bass, Ukulele, and Violin – each with tailored tuning options.
+
+- Custom Tunings: Create, save, and manage your own tunings directly in the app.
