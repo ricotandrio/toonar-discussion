@@ -24,9 +24,14 @@ Use this repo to:
 
 ---
 
+## 📄 Privacy
+
+Read our [Privacy Policy](https://github.com/ricotandrio/toonar-discussion/blob/main/PRIVACY.md).
+
+---
 ## 📬 How to Contribute
 
-1. Open a [Discussion](http://github.com/ricotandrio/toonar-discussion/discussions)
+1. Open a [Discussion](https://github.com/ricotandrio/toonar-discussion/discussions)
 2. Use relevant categories like:
    - 🐞 Bug Reports
    - 💡 Feature Requests
