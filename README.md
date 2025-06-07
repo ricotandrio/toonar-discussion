@@ -13,7 +13,7 @@
     <a href="https://github.com/ricotandrio/toonar-discussion/blob/main/PRIVACY.md"><strong>Privacy Policy »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/ricotandrio/toonar-discussion/discussion">Discussion</a>
+    <a href="https://github.com/ricotandrio/toonar-discussion/discussions">Discussion</a>
     &middot;
     <a href="https://github.com/ricotandrio/toonar-discussion/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     &middot;

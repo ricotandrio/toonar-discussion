@@ -22,9 +22,9 @@ What you expected to happen instead.
 Attach images or screen recordings showing the bug.
 
 **Device & Environment**
-- Device: [e.g., iPhone 13]
-- iOS Version: [e.g., iOS 17.4]
-- Toonar Version: [e.g., 1.0.1]
+- Device: [e.g., iPhone 15]
+- iOS Version: [e.g., iOS 18.3.1]
+- Toonar Version: [e.g., 1.0.0]
 
 **Additional context**
 Any other relevant info or context about the bug.
