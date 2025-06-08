@@ -10,7 +10,7 @@
     Welcome to the discussion repository for <b>Toonar</b>, the experimental iOS digital tuner app. This space is dedicated to sharing ideas, giving feedback, reporting bugs, and suggesting improvements for the app.
     <br />
     <br />
-    <a href="https://github.com/ricotandrio/toonar-discussion/blob/main/PRIVACY.md"><strong>Privacy Policy »</strong></a>
+    <a href="https://ricotandrio.github.io/toonar-discussion/PRIVACY"><strong>Privacy Policy »</strong></a>
     <br />
     <br />
     <a href="https://github.com/ricotandrio/toonar-discussion/discussions">Discussion</a>
