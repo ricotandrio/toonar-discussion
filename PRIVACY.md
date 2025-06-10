@@ -21,7 +21,7 @@ Toonar does **not use** any third-party analytics, advertising networks, or trac
 
 ### 5. **Changes to This Policy**
 
-This Privacy Policy may be updated periodically. Any updates will be reflected by revising the "Effective Date" at the top of this page.
+This Privacy Policy may be updated periodically. Any updates will be reflected by revising the "Effective Date" at the bottom of this page.
 
 ### 6. **Contact**
 
