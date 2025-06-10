@@ -1,6 +1,6 @@
 <br />
 <div align="center">
-  <a href="https://github.com/ricotandrio/toonar-discussion">
+  <a href="https://apps.apple.com/us/app/toonar-guitar-tuner/id6746668229">
     <img src="assets/toonar.png" alt="Toonar Logo" width="80" height="80">
   </a>
 
