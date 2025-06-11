@@ -4,7 +4,11 @@
     <img src="assets/toonar.png" alt="Toonar Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Toonar: Guitar Tuner</h3>
+  <h3 align="center">Toonar: Guitar Tuner</h3>
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/version-1.0.0-blue.svg" alt="Current Version">
+  </p>
 
   <p align="center">
     Welcome to the discussion repository for <b>Toonar</b>, the experimental iOS digital tuner app. This space is dedicated to sharing ideas, giving feedback, reporting bugs, and suggesting improvements for the app.
