@@ -33,6 +33,6 @@ If you have any questions or concerns about this Privacy Policy, please contact 
 
 <div align="right">
   
-  *Effective Date: June 8, 2025*
+  <i>Effective Date: June 8, 2025</i>
 
 </div>
